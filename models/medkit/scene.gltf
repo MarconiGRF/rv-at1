@@ -1,0 +1,762 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1534,
+      "max": [
+        2.2510547637939453,
+        5.9921875,
+        8.75
+      ],
+      "min": [
+        -11.551054000854492,
+        -3.286260830516821e-14,
+        -8.75
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18408,
+      "componentType": 5126,
+      "count": 1534,
+      "max": [
+        0.9999139904975891,
+        1.0,
+        0.9999898672103882
+      ],
+      "min": [
+        -0.9999139904975891,
+        -1.0,
+        -0.9999898672103882
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1534,
+      "max": [
+        0.9999077320098877,
+        0.9998703002929688,
+        0.9999991655349731,
+        1.0
+      ],
+      "min": [
+        -0.9999682903289795,
+        -0.9998587965965271,
+        -0.9960339665412903,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1534,
+      "max": [
+        0.9999023675918579,
+        0.9013270735740662
+      ],
+      "min": [
+        9.765625145519152e-05,
+        9.765625145519152e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6519,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36816,
+      "componentType": 5126,
+      "count": 1980,
+      "max": [
+        2.151054859161377,
+        8.171810150146484,
+        8.639427185058594
+      ],
+      "min": [
+        -9.648944854736328,
+        3.6796822547912598,
+        -8.639427185058594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60576,
+      "componentType": 5126,
+      "count": 1980,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 24544,
+      "componentType": 5126,
+      "count": 1980,
+      "max": [
+        0.999970018863678,
+        0.9999992847442627,
+        0.999995231628418,
+        1.0
+      ],
+      "min": [
+        -0.9999990463256836,
+        -0.9999993443489075,
+        -0.9999957084655762,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12272,
+      "componentType": 5126,
+      "count": 1980,
+      "max": [
+        0.9991000294685364,
+        0.9354903101921082
+      ],
+      "min": [
+        9.765625145519152e-05,
+        9.765625145519152e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 26076,
+      "componentType": 5125,
+      "count": 8547,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84336,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        -0.9184154272079468,
+        8.09187126159668,
+        2.976813316345215
+      ],
+      "min": [
+        -6.579413890838623,
+        7.941108703613281,
+        -2.9768147468566895
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84528,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.11875016987323761,
+        0.9994148015975952,
+        1.7386480976711027e-05
+      ],
+      "min": [
+        -0.11875075101852417,
+        0.9929240942001343,
+        -1.753115611791145e-05
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28112,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.9999998807907104,
+        0.9754242897033691
+      ],
+      "min": [
+        0.0,
+        0.024575620889663696
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28240,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.9999998807907104,
+        0.9754242897033691
+      ],
+      "min": [
+        0.0,
+        0.024575620889663696
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60264,
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84720,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        10.469141960144043,
+        5.014206886291504,
+        3.64308500289917
+      ],
+      "min": [
+        7.032966613769531,
+        4.694745063781738,
+        -3.64308500289917
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85152,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        0.5723528861999512,
+        0.9999778270721436,
+        0.5452800989151001
+      ],
+      "min": [
+        -0.5723528861999512,
+        0.8193841576576233,
+        -0.5452800989151001
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28368,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1.0000001192092896,
+        0.7358011603355408
+      ],
+      "min": [
+        -1.341104507446289e-07,
+        0.26419883966445923
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28656,
+      "componentType": 5126,
+      "count": 36,
+      "max": [
+        1.0000001192092896,
+        0.7358011603355408
+      ],
+      "min": [
+        -1.341104507446289e-07,
+        0.26419883966445923
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60480,
+      "componentType": 5125,
+      "count": 174,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85584,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        11.551054000854492,
+        5.000517845153809,
+        4.987500190734863
+      ],
+      "min": [
+        5.951054573059082,
+        -3.2640569205957337e-15,
+        -4.987500190734863
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92928,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        0.9999921321868896,
+        0.9999995827674866,
+        1.0
+      ],
+      "min": [
+        -0.9999921321868896,
+        -0.9999995827674866,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 56224,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        1.0,
+        0.9998778104782104,
+        0.9986990690231323,
+        1.0
+      ],
+      "min": [
+        -0.9982566833496094,
+        -0.9991229772567749,
+        -0.9995710253715515,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28944,
+      "componentType": 5126,
+      "count": 612,
+      "max": [
+        0.9983633160591125,
+        0.9999023675918579
+      ],
+      "min": [
+        9.765625145519152e-05,
+        9.765625145519152e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 61176,
+      "componentType": 5125,
+      "count": 2556,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kitamaco (https://sketchfab.com/kitamako)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/apex-legends-med-kit-syringe-a5525290d3eb47a1930faaf358a74d05",
+      "title": "Apex Legends Med Kit & Syringe"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 71400,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33840,
+      "byteOffset": 71400,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 100272,
+      "byteOffset": 105240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66016,
+      "byteOffset": 205512,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 271528,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Main_Med_Kit_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/Main_Med_Kit_Mat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Main_Med_Kit_Mat_normal.png"
+    },
+    {
+      "uri": "textures/Decal_Med_Kit_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/Decal_Syringe_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/Main_Syringe_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/Main_Syringe_Mat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Main_Syringe_Mat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Main_Med_Kit_Mat",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Decal_Med_Kit_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Decal_Syringe_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Main_Syringe_Mat",
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 6
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicRoughnessTexture": {
+          "index": 6
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Base_Med_Kit_Main_Med_Kit_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lid_Med_Kit_Main_Med_Kit_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Decal_Med_Kit_Decal_Med_Kit_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Decal_Syringe_Decal_Syringe_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18
+          },
+          "indices": 19,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Main_Syringe_Main_Syringe_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "62f9eebe1fbf467496ce071209a4aa20.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        11
+      ],
+      "name": "Root_Med_Kit_Syringe"
+    },
+    {
+      "children": [
+        5,
+        7,
+        9
+      ],
+      "name": "Med_Kit"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Base_Med_Kit"
+    },
+    {
+      "mesh": 0,
+      "name": "Base_Med_Kit_Main_Med_Kit_Mat_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Lid_Med_Kit"
+    },
+    {
+      "mesh": 1,
+      "name": "Lid_Med_Kit_Main_Med_Kit_Mat_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Decal_Med_Kit"
+    },
+    {
+      "mesh": 2,
+      "name": "Decal_Med_Kit_Decal_Med_Kit_Mat_0"
+    },
+    {
+      "children": [
+        12,
+        14
+      ],
+      "name": "Syringe"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Decal_Syringe"
+    },
+    {
+      "mesh": 3,
+      "name": "Decal_Syringe_Decal_Syringe_Mat_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Main_Syringe"
+    },
+    {
+      "mesh": 4,
+      "name": "Main_Syringe_Main_Syringe_Mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}
